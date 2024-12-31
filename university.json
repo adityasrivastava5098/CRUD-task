@@ -1,0 +1,28 @@
+{
+    "university": {
+        "name": "SRM KTR University",
+        "location": "Chennai, India",
+        "departments": [
+            {
+                "name": "Computer Science and Engineering",
+                "professors": [
+                    { "name": "Dr. Ravi Kumar", "id": 101 },
+                    { "name": "Dr. Sita Patel", "id": 102 }
+                ],
+                "students": [
+                    { "name": "Amit Sharma", "id": 1001 },
+                    { "name": "Priya Nair", "id": 1002 }
+                ]
+            },
+            {
+                "name": "Mechanical Engineering",
+                "professors": [
+                    { "name": "Dr. Arun Verma", "id": 103 }
+                ],
+                "students": [
+                    { "name": "Ravi Kumar", "id": 1003 }
+                ]
+            }
+        ]
+    }
+}
